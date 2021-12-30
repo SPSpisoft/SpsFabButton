@@ -16,9 +16,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.spsoft.spfabbutton.FabButton
-        android:id="@+id/fabbutton_ring"
+        android:id="@+id/f"
         android:layout_width="100dp"
-        android:layout_height="100dp"
-        tools:ignore="MissingConstraints" />
+        android:layout_height="100dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
