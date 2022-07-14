@@ -49,6 +49,7 @@ import java.util.List;
 @CoordinatorLayout.DefaultBehavior(FabButton.Behavior.class)
 public class FabButton extends FrameLayout implements CircleImageView.OnFabViewListener {
 
+
     private CircleImageView circle;
     private ProgressRingView ring;
     private float ringWidthRatio = 0.14f; //of a possible 1f;
